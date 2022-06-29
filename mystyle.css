@@ -1,0 +1,156 @@
+body{
+    color: #51557E;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: #9DD6DF;
+    font-size: 1.5rem;
+    
+}
+p{
+    line-height: 2;
+}
+
+.mountains2{
+    width: 200px;
+    height: auto;
+    margin-left: 35%;
+}
+.self{
+    margin-top: 5%;
+    width: 200px;
+    height: 200px;
+    clip-path: circle();
+}
+h1{
+    color: #18978F;
+    font-weight: bolder;
+    line-height: 2;
+    font-size: 100px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-family: 'Dancing Script', cursive;
+    
+}
+.top-container{
+    background-color: #9DD6DF;
+    position: relative;
+    
+}
+.bottom-container{
+    background-color: #9DD6DF;
+}
+.para1{
+    color:#18978F;
+}
+
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    margin-right: 80%;
+    width: 150px;
+    position: absolute;
+    left: 250px;
+    bottom: 0px;
+}
+.top-cloud{
+    margin-left: 80%;
+    width: 150px;
+    position:absolute;
+    right: 300px;
+    top: 10px;
+
+}
+.heading2{
+    color: #18978F;
+}
+.heading3{
+    color:#53BF9D;
+}
+hr{
+    background-color:#F7ECDE;
+    border-style: none ;
+    border-top-style: dotted;
+    border-color: #53BF9D;
+    border-width: 5px;
+    width: 10%;
+    margin:100px auto 100px auto ;
+   }
+.Skills{
+    width:30%;
+    float: left;
+    margin-right: 100px;
+    
+}
+.para-intro{
+    font-size: medium;
+}
+.Github{
+    padding-top: 20px;
+    width: 50px;
+}
+.linkedin{
+    padding-top: 20px;
+    width: 50px;
+}
+.middle-container{
+    background-color: white;
+    padding: auto;
+    padding-bottom: 20px;
+}
+
+ul{
+    list-style: none;
+    font-size: small;
+}
+.skill-row{
+    line-height: 2;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.skill-para{
+    font-size: medium;
+}
+.skill-para2{
+    font-size: medium;
+}
+.football-img{
+    width: 30%;
+    float: right;
+    margin-left:100px;
+}
+.btn {
+    background: #34d9d3;
+    background-image: -webkit-linear-gradient(top, #34d9d3, #11679c);
+    background-image: -moz-linear-gradient(top, #34d9d3, #11679c);
+    background-image: -ms-linear-gradient(top, #34d9d3, #11679c);
+    background-image: -o-linear-gradient(top, #34d9d3, #11679c);
+    background-image: linear-gradient(to bottom, #34d9d3, #11679c);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: 'Poppins', sans-serif;
+    color: #fcfcfc;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #1cbee3;
+    background-image: -webkit-linear-gradient(top, #1cbee3, #29d9c2);
+    background-image: -moz-linear-gradient(top, #1cbee3, #29d9c2);
+    background-image: -ms-linear-gradient(top, #1cbee3, #29d9c2);
+    background-image: -o-linear-gradient(top, #1cbee3, #29d9c2);
+    background-image: linear-gradient(to bottom, #1cbee3, #29d9c2);
+    text-decoration: none;
+  }
+  a:hover{
+    color: #eaf6f6;
+  }
+  .copyright{
+    font-size: x-small;
+    bottom: 5px;
+  }
